@@ -1,6 +1,6 @@
 # ioc-rxjs-todo
 
-一个结合 inveersify 和 rxjs 的 todo 应用
+一个结合 inversify 和 rxjs 的 todo 应用
 
 ## 运行
 
